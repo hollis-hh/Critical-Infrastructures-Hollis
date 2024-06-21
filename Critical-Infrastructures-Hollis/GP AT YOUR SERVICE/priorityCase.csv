@@ -1,0 +1,13 @@
+﻿Immediate                 ,Urgent                        ,Non-Urgent (High)    ,Regular (Routine)
+Heart Attack              ,High Fever                    ,Chronic Disease      ,Check-up
+Chest Pain                ,Suspected Appendicitis        ,Diabetes             ,Vaccination
+Stroke Symptoms           ,Severe Infections             ,Follow-Up            ,cold
+Severe Trauma or Injury   ,Vomiting or Diarrhea          ,Depression           ,mild allergies
+Severe Allergic Reactions ,Severe Headaches or Migraines ,Anxiety              ,
+Difficulty Breathing      ,Asthma Attacks                ,Skin Infection       ,
+Uncontrolled Bleeding     ,Fractures                     ,Abnormal lab results ,
+Severe Burns              ,Severe Pain                   ,Dental Check-ups     ,
+Severe Abdominal Pain     ,Severe Sore Throat            ,Therapy Session      ,
+Seizures                  ,                              ,Asthma               ,
+                          ,                              ,Arthritis            ,
+                          ,                              ,Heart Disease        ,
